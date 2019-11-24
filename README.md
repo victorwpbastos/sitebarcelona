@@ -1,2 +1,1 @@
 # sitebarcelona
-GitHub Pages
