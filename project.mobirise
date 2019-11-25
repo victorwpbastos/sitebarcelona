@@ -34,7 +34,16 @@
     "siteFonts": [],
     "uniqCompNum": 24,
     "versionPublish": "4.11.5",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/michael-hart-feqx6umd178-unsplash-128x87.png",
+    "": "on",
+    "noImageResize": true,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
